@@ -1,0 +1,3 @@
+rootProject.name = "BitmapCache"
+include ':app'
+include ':BitmapCacheLibs'
